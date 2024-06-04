@@ -10,11 +10,11 @@
 
 I am an aspiring cloud engineer currently seeking employment. I primarily use the AWS cloud platform and have a keen interest in Infrastructure as Code (IaC). Nice to meet you.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byteshow_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byte&show_icons=true&theme=tokyonight)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=13byte)](https://solved.ac/13bitadc)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=13bitadc)](https://solved.ac/13bitadc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13bytte&layout=compact)](https://github.com/13byte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13byte&layout=compact)](https://github.com/13byte/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=61DBF0&height=150&section=footer" />
