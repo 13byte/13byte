@@ -20,6 +20,8 @@
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byte&show_icons=true&theme=tokyonight) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=13bitadc)](https://solved.ac/13bitadc) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13byte&layout=compact)
