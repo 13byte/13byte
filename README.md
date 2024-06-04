@@ -32,6 +32,10 @@ Tools
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
+OS
+
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 ## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byte&show_icons=true&theme=tokyonight) 
