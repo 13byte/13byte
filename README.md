@@ -10,7 +10,7 @@
 
 📧 email : 13bitadc@naver.com
 
-## 기술스택
+## Studying
 
 Language
 
