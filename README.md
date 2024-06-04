@@ -28,6 +28,8 @@ Cloud
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 
+## Statistics
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byte&show_icons=true&theme=tokyonight) 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=13bitadc)](https://solved.ac/13bitadc) 
