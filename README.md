@@ -1,4 +1,4 @@
-![image](https://github.com/13byte/13byte/assets/105263779/3f46ea15-4fd4-4204-8923-297d6f7460a8)![image](https://github.com/13byte/13byte/assets/105263779/e4288870-c1c2-4208-91f9-1e64150740c2)<img src="https://capsule-render.vercel.app/api?type=waving&color=61DBF0&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61DBF0&height=150&section=header" />
 
 ## Hi there 👋
 
