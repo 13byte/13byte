@@ -12,8 +12,7 @@
 
 ## 기술스택
 
-<img src="https://shields.io/badge/A8B9CC?style=flat&logo=C&logoColor=white" />
-<img src="https://shields.io/badge/A8B9CC?style=flat&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13byte&show_icons=true&theme=tokyonight)
 
