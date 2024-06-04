@@ -3,11 +3,9 @@
 ## Hi there 👋
 
 😄 안녕하세요! 저는 <b>송정우</b>입니다.
-<br>
 
 <b>클라우드 엔지니어</b>를 희망하는 취업 준비생입니다. 주로 AWS 클라우드 플랫폼을 사용하고 있으며, IaC(Infrastructure as Code)에 관심이 많습니다.
 
-<br>
 만나서 반갑습니다.
 
 📧 email : 13bitadc@naver.com
